@@ -26,8 +26,11 @@ doSomething('anything i want')
 function doubleNum(num) {
      return num * 2
 }
+
+
+
 console.log()
-var doubledNumber = doubleNum(5)
+var doubledNumber = doubleNum(20)
 console.log(doubledNumber)
 console.log(doubleNum(7))
 
